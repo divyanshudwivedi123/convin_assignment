@@ -11,6 +11,7 @@ Features:
 - Authentication
 - Input validation
 - Add 3 types of expenses (Exact, Percentage, Equal}
+- Get individual expenses and overall expenses
 - Get Balance sheet
 
 ## Project Setup Steps
