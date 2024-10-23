@@ -28,9 +28,12 @@ This will install all necessary dependencies needed to run the project locally.
 
 ```
 PORT = 3000
-MONGO_URL = mongodb+srv://123:123@cluster0.tdck5rv.mongodb.net/convin4
+MONGO_URL = "YOUR MONGO URL"
 JWT_SECRET = holaamigo
 ```
+
+
+Get a mongoDB free instance and paste the connection string in MONGO_URL.
 ## Start the App 
 In the VS code terminal, run the command : ```npm run dev``` to start the project. If everything is set up properly, then the app will start and you will see this in the console. 
 
